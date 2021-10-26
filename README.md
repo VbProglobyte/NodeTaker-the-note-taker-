@@ -23,6 +23,7 @@ http://localhost:3001/notes
 
 ##Screenshots
  ![screencapture-localhost-3001-notes-2021-10-26-09_09_59](https://user-images.githubusercontent.com/83515305/138896530-6ece2113-6f51-4fc8-88e0-baa124c82b18.png)
+ ![screencapture-localhost-3001-notes-2021-10-26-09_36_40](https://user-images.githubusercontent.com/83515305/138901796-a03e6269-3c54-4708-ac65-f59d93f69f7d.png)
 
 ##Credits
 A special thank you to MrTofuuu for helping me understand this concept!
