@@ -10,13 +10,15 @@ The application’s front end has already been created. The job was to build the
 Use the NodeTaker to quickly write notes and save them. 
 
 ##Installation
+ 
  - node
  - express
  - npm
+
  Make sure you have node installed on your computer : https://nodejs.dev/learn/how-to-install-nodejs
  Once node has been installed you can include npm packages through your terminal, and envoke express. 
  
- ##Screenshots
+##Screenshots
  ![screencapture-localhost-3001-notes-2021-10-26-09_09_59](https://user-images.githubusercontent.com/83515305/138896530-6ece2113-6f51-4fc8-88e0-baa124c82b18.png)
 
 ##Credits
